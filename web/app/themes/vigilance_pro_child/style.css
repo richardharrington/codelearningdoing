@@ -1,0 +1,31 @@
+/*
+Theme Name: Vigilance PRO Child Theme
+Theme URI: http://thethemefoundry.com/vigilance/
+Description: Child theme for customizing Vigilance PRO.
+Version: 2.0
+Author: The Theme Foundry
+Author URI: http://thethemefoundry.com/
+Template: vigilance_pro
+*/
+
+/* Import Stylesheets, don't remove these.
+-----------------------------------------------------------*/
+@import url("../vigilance_pro/stylesheets/master.css");
+
+/* Required Wordpress Classes, don't remove these.
+-----------------------------------------------------------*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/* Make all custom CSS changes BELOW this line
+-----------------------------------------------------------*/
+/* Example: Change the sidebar background to blue:
+#sidebar {
+	background: blue;
+}
+*/

@@ -1,0 +1,28 @@
+== Changelog ==
+= 2.4.5 =
+* Added missing translation strings
+
+= 2.4.4 =
+* Fixed image stretching in old versions of Internet Explorer
+
+= 2.4.3 =
+* Fixed some bugs in the attachment template
+
+= 2.4.2 =
+* Added attachment template for post attachments
+* Fixed admin comments - now admin comments will display an asterisk
+
+= 2.4.1 =
+* Fixed images being squished on the full-width page template
+
+= 2.4 =
+* Fixed maximum widths for images & other media
+* Changed admin styles to match WordPress defaults
+* Accessibility improvements on search form
+* Added styles to captions
+* CSS selector cleanup
+
+= 2.3 =
+* Replaced the old logo uploader with a faster version that uses WP core.
+* Add a check_hash function to validate hex color output and add # if missing.
+* Add a check for border_color values.
